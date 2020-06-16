@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - myWeapon
+  - enemy
+  - Coin
+  - HealthPickup
+  - SoundTrigger1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Effects
+  - Background
+  - 
+  - 
+  - 
+  - Trees
+  - Assets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bbg
+    uniqueID: 3035351757
+    locked: 0
+  - name: Background
+    uniqueID: 287188307
+    locked: 0
+  - name: snow
+    uniqueID: 2536328193
+    locked: 0
+  - name: Trees back
+    uniqueID: 4275998967
+    locked: 0
+  - name: Trees2
+    uniqueID: 2699532829
+    locked: 0
+  - name: Trees
+    uniqueID: 4039279301
+    locked: 0
+  - name: Trees4
+    uniqueID: 813489083
+    locked: 0
+  - name: Trees front
+    uniqueID: 2908755017
+    locked: 0
+  - name: Assets
+    uniqueID: 2472343139
+    locked: 0
+  - name: Objects
+    uniqueID: 3945411605
+    locked: 0
+  - name: Monster
+    uniqueID: 3842779689
+    locked: 0
+  - name: Villager
+    uniqueID: 3970910231
+    locked: 0
+  - name: Player
+    uniqueID: 2394520541
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HitEffects
+    uniqueID: 830213001
+    locked: 0
+  - name: UI
+    uniqueID: 3402955277
+    locked: 0
+  - name: IFPlayer
+    uniqueID: 2412562173
+    locked: 0

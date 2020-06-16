@@ -1,0 +1,1099 @@
+fileFormatVersion: 2
+guid: 821659167dce07742bae4a3015878c95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2177081769007260636
+    second: 2_Pixie_1 0
+  - first:
+      213: -8068501432856362474
+    second: 2_Pixie_1 1
+  - first:
+      213: 8623083717708814719
+    second: 2_Pixie_1 2
+  - first:
+      213: -6316708620984681914
+    second: 2_Pixie_1 3
+  - first:
+      213: -8454522300412184286
+    second: 2_Pixie_1 4
+  - first:
+      213: 8428426826403113986
+    second: 2_Pixie_1 5
+  - first:
+      213: 7594101258302548636
+    second: 2_Pixie_1 6
+  - first:
+      213: 28741840163894741
+    second: 2_Pixie_1 7
+  - first:
+      213: -4681782314921714142
+    second: 2_Pixie_1 8
+  - first:
+      213: -5036136650679995736
+    second: 2_Pixie_1 9
+  - first:
+      213: 3528664440416029533
+    second: 2_Pixie_1 10
+  - first:
+      213: -6917338000471250811
+    second: 2_Pixie_1 11
+  - first:
+      213: 5420265753148487437
+    second: 2_Pixie_1 12
+  - first:
+      213: -2888491288453720553
+    second: 2_Pixie_1 13
+  - first:
+      213: -3055797062449724980
+    second: 2_Pixie_1 14
+  - first:
+      213: 1551259632282401625
+    second: 2_Pixie_1 15
+  - first:
+      213: 4380030103657725099
+    second: 2_Pixie_1 16
+  - first:
+      213: -8219557595215525475
+    second: 2_Pixie_1 17
+  - first:
+      213: 8310765195244245446
+    second: 2_Pixie_1 18
+  - first:
+      213: -708226614852927449
+    second: 2_Pixie_1 19
+  - first:
+      213: -3537025528297777443
+    second: 2_Pixie_1 20
+  - first:
+      213: -3710020711407932123
+    second: 2_Pixie_1 21
+  - first:
+      213: -3808524546717912963
+    second: 2_Pixie_1 22
+  - first:
+      213: 377435860234462249
+    second: 2_Pixie_1 23
+  - first:
+      213: -5846641951883884192
+    second: 2_Pixie_1 24
+  - first:
+      213: -5686870389629100842
+    second: 2_Pixie_1 25
+  - first:
+      213: -1295937407915295154
+    second: 2_Pixie_1 26
+  - first:
+      213: 2427741252602095808
+    second: 2_Pixie_1 27
+  - first:
+      213: -8395534057449513251
+    second: 2_Pixie_1 28
+  - first:
+      213: 8415613719250998011
+    second: 2_Pixie_1 29
+  - first:
+      213: 8505343551497820623
+    second: 2_Pixie_1 30
+  - first:
+      213: -2007709641429322553
+    second: 2_Pixie_1 31
+  - first:
+      213: 6399671095036463286
+    second: 2_Pixie_1 32
+  - first:
+      213: -8113954531232156568
+    second: 2_Pixie_1 33
+  - first:
+      213: -8778177122608266222
+    second: 2_Pixie_1 34
+  - first:
+      213: -8365898961307875767
+    second: 2_Pixie_1 35
+  - first:
+      213: -599350744195867199
+    second: 2_Pixie_1 36
+  - first:
+      213: -5956928667805395365
+    second: 2_Pixie_1 37
+  - first:
+      213: -2262547371678383451
+    second: 2_Pixie_1 38
+  - first:
+      213: -5353137207293023288
+    second: 2_Pixie_1 39
+  - first:
+      213: -4915292019774036147
+    second: 2_Pixie_1 40
+  - first:
+      213: -1619111185526346219
+    second: 2_Pixie_1 41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 406
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2_Pixie_1 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd328a0955c863e10800000000000000
+      internalID: 2177081769007260636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 165
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612cdd012bce60090800000000000000
+      internalID: -8068501432856362474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 165
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791d7644f85ba770800000000000000
+      internalID: 8623083717708814719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 165
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a7f800afa8658a0800000000000000
+      internalID: -6316708620984681914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 165
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229305203c08baa80800000000000000
+      internalID: -8454522300412184286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 165
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c612bfa89c7f470800000000000000
+      internalID: 8428426826403113986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 165
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a6871fbdaa36960800000000000000
+      internalID: 7594101258302548636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5f8252d8c166000800000000000000
+      internalID: 28741840163894741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 132
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e926b2ac7f60fb0800000000000000
+      internalID: -4681782314921714142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 132
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2b4e7166c0c1ab0800000000000000
+      internalID: -5036136650679995736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 132
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bcc86ec9558f030800000000000000
+      internalID: 3528664440416029533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 132
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588a99afcbda000a0800000000000000
+      internalID: -6917338000471250811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 132
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0771a41cf6a83b40800000000000000
+      internalID: 5420265753148487437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 132
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d7ee1a740ae7d0800000000000000
+      internalID: -2888491288453720553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1800313c0a795d0800000000000000
+      internalID: -3055797062449724980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 99
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b7898aa6e278510800000000000000
+      internalID: 1551259632282401625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 99
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac39024c2ef8cc30800000000000000
+      internalID: 4380030103657725099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 99
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99805e8ae34eed80800000000000000
+      internalID: -8219557595215525475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 99
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1963aa9e4c55370800000000000000
+      internalID: 8310765195244245446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 99
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720c63965afdb26f0800000000000000
+      internalID: -708226614852927449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 99
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd69250a506f9eec0800000000000000
+      internalID: -3537025528297777443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d203bc1db538cc0800000000000000
+      internalID: -3710020711407932123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 66
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70f58a6a17652bc0800000000000000
+      internalID: -3808524546717912963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 66
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924e4c64aebec3500800000000000000
+      internalID: 377435860234462249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06980112f1e8cdea0800000000000000
+      internalID: -5846641951883884192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 66
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc587ec28d2411b0800000000000000
+      internalID: -5686870389629100842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 66
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e711e2bc7e30ee0800000000000000
+      internalID: -1295937407915295154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8e8e77ec111b120800000000000000
+      internalID: 2427741252602095808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 66
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde170691421d7b80800000000000000
+      internalID: -8395534057449513251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf21cdef6144ac470800000000000000
+      internalID: 8415613719250998011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 33
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9dfa795ec090670800000000000000
+      internalID: 8505343551497820623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 33
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c47a7ae7be2324e0800000000000000
+      internalID: -2007709641429322553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 33
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8cbfa34f230d850800000000000000
+      internalID: 6399671095036463286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 132
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8647c3ae751756f80800000000000000
+      internalID: -8113954531232156568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 33
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214497f6a66ad2680800000000000000
+      internalID: -8778177122608266222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 33
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9464f68183b56eb80800000000000000
+      internalID: -8365898961307875767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 33
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd6547cadaea7f0800000000000000
+      internalID: -599350744195867199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b565e1310fcb45da0800000000000000
+      internalID: -5956928667805395365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2cd972721d990e0800000000000000
+      internalID: -2262547371678383451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 39
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb6f557216d5b5b0800000000000000
+      internalID: -5353137207293023288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d476e0a43ff59cbb0800000000000000
+      internalID: -4915292019774036147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_Pixie_1 41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e27d684f2c789e0800000000000000
+      internalID: -1619111185526346219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

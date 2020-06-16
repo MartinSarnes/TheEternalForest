@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/MainMenu.unity
+    guid: b6846407150e4bb41b4d0c583187645b
+  - enabled: 1
+    path: Assets/Scenes/Main/Hub1.unity
+    guid: 25fc1a4ffa4a1fc4da8479ac58ceda15
+  - enabled: 1
+    path: Assets/Scenes/Main/Quest1.unity
+    guid: 14552d5fc0e6f264691fa4aeeafe887e
+  - enabled: 1
+    path: Assets/Scenes/Main/Hub2.unity
+    guid: 97e77946d5387cf41af97e1a7f431d8e
+  - enabled: 1
+    path: Assets/Scenes/Main/Quest2.unity
+    guid: 5c78bb01247dc0e48ad20278683c2856
+  - enabled: 1
+    path: Assets/Scenes/Main/Hub3.unity
+    guid: 8aec11b297e1fc446a9350ce6cf6f9c9
+  - enabled: 0
+    path: Assets/Scenes/Main/Quest3 NOT IN USE.unity
+    guid: c99d7a6869ba7cb4ea91808d62d2abe9
+  - enabled: 0
+    path: Assets/Scenes/Main/Hub4 NOT IN USE.unity
+    guid: 62924f950f4dad5419146e5910b72cec
+  - enabled: 1
+    path: Assets/Scenes/Main/Quest4.unity
+    guid: 17030ce1b07ae5449861f4b2a28ffc98
+  - enabled: 1
+    path: Assets/Scenes/Main/Hub5.unity
+    guid: 6754e49fe69a78e418710807d1c02d62
+  - enabled: 1
+    path: Assets/Scenes/Main/Quest5.unity
+    guid: de4bbaa434a307540b13dbbeb0c05e89
+  - enabled: 1
+    path: Assets/Scenes/Main/Hub6.unity
+    guid: ba5568a66efa5164893638385f7b51e9
+  - enabled: 1
+    path: Assets/Scenes/Main/Credits.unity
+    guid: b88eeae51809614468a49a7d38cbe4a9
+  m_configObjects: {}
